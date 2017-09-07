@@ -33,7 +33,7 @@
       
       data.style.height = props.size
       data.style.width = props.size
-      data.styke.border-style: props.border-style
+      data.style.border-style: props.border-style
       data.style.border-width: props.border-width
       data.style.border-color: props.border-color
 
